@@ -1,0 +1,15 @@
+h1{
+    color:orangered;
+    text-align: center;
+}
+
+h2{
+    background-color: gray;
+}
+
+div{
+    background-color:skyblue;
+    width: 200px;
+    padding: 20px;
+    border: 3px solid black;
+}
